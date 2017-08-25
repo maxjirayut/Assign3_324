@@ -22,7 +22,9 @@
             android:layout_alignParentTop="true"
             android:adjustViewBounds="false"
             android:scaleType="centerCrop"
-            app:srcCompat="@drawable/aa" />
+
+            />
+
 
         <TextView
             android:id="@+id/textView5"
